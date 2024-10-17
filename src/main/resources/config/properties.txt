@@ -1,0 +1,4 @@
+pathFilePatients=data/patients.csv
+pathFileDoctors=data/doctors.csv
+nextId=0
+
